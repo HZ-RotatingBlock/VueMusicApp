@@ -1,6 +1,8 @@
 # Vue2.0音乐App
 
-> 基于Vue2.0的音乐App
+> **基于Vue2.0的音乐App**
+
+> [**预览地址**](https://hz-rotatingblock.github.io/VueMusicApp/dist)
 
 ## 项目整体结构
 
