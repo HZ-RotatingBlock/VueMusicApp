@@ -3,6 +3,7 @@
 > **基于Vue2.0的音乐App**
 
 > [**预览地址**](https://hz-rotatingblock.github.io/VueMusicApp/dist)
+
 > PS：部分请求因在非服务器上暂时失效，若需查看完整样式可查看下方的项目预览或者clone到本地运行
 
 ## 项目整体结构
